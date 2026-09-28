@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="expense_categories">
+        <item>@string/food</item>
+        <item>@string/travel</item>
+        <item>@string/shopping</item>
+        <item>@string/bills</item>
+        <item>@string/other</item>
+    </string-array>
+
+</resources>
