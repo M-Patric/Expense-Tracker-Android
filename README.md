@@ -123,7 +123,11 @@ The application was tested for:
 
 ### Empty State
 
-![Empty State](screenshots/01-empty-state.jpg)
+![Empty State](screenshots/01-empty-state1.jpg)
+
+### Empty State2
+
+![Empty State](screenshots/01-empty-state2.jpg)
 
 ### Expense Form
 
